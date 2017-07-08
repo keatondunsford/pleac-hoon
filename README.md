@@ -1,6 +1,6 @@
 # PLEAC in Hoon
 
-### Foreword (copied verbatum from the [original PLEAC project](http://pleac.sourceforge.net/))
+## Foreword (copied verbatum from the [original PLEAC project](http://pleac.sourceforge.net/))
 
 Following the Perl Cookbook (by Tom Christiansen and Nathan Torkington, published by O'Reilly) spirit, the PLEAC Project aims to gather fans of programming, in order to implement the solutions in other programming languages.
 
@@ -8,7 +8,7 @@ In this document, you'll find an implementation of the Solutions of the Perl Coo
 
 The material, considered as some Documentation, is wholly released under the GNU [Free Documentation License](http://www.gnu.org/copyleft/fdl.html).
 
-### Commentary
+## Commentary
 
 We've realized we need a searchable Hoon/Arvo cookbook to supplement our core reference doc and high-level tutorials. We've decided to start a community project to implement the *Programming Language Examples Alike Cookbook*], or [*PLEAC*](http://pleac.sourceforge.net/), in Hoon.
 
@@ -21,7 +21,7 @@ But PLEAC isn't perfect. The main problems with PLEAC are:
 
 We think the best way to solve these problems is for us to do all of PLEAC anyways, as closely as possible to the existing canonical solutions, and discuss our Hoon solutions publicly. Inevitably, it will become clear what Hoon/Arvo topics are not being covered, and we can add those to create our own complete Urbit cookbook over time.
 
-### Contributing
+## Contributing
 
 Help us finish this! We're now accepting pull requests.
 
@@ -29,10 +29,10 @@ For each PLEAC chapter, we've set up a corresponding [Github project](https://gi
 
 In general, please try to follow as closely as possible the style of the few solutions that have already been pushed, which is a very rough maintenance-branch translation of @cgyarvin's [doccord](https://urbit.org/fora/posts/~2017.4.7..06.37.22..c960~/) style guide. For general Urbit contributing guidelines, see [this document](https://github.com/urbit/urbit/blob/maint-0.4/CONTRIBUTING.md).
 
-### Fora
+## Fora
 
 The original Fora post discussing this project can be found [here](). After looking through the [original PLEAC chapters](http://pleac.sourceforge.net/pleac_perl/index.html) a bit, comment on the post: what would be great additional (or modified) Hoon/Arvo-specific chapters? Just a few things that come to mind are:
-* Molds and auras 
+* Molds and auras
 * Subject-oriented programming
 * Units
 * Arrays vs. Hoon tuples and lists
